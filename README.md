@@ -1,3 +1,3 @@
-# Digital Innovation One
+Demonstração da interface finalizada:
 
-https://shirleygaliani.github.io/DigitalInnovationOne/
+![Interface finalizada](img/interface.png)
